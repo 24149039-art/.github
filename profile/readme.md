@@ -6,7 +6,7 @@
 
 | S.No | Project Title              | Domain           | Technologies Used     | 
 | --- | -------------------------- | ---------------- | --------------------- | 
-
+| 1 | [DNS RECORD FINDER](https://github.com/Relic29/DNS-RECORD-FINDER) | Cyber Security | Python |
 
 ### 🎓 Batch: **2024 – 2028**
 | S.No | Project Title              | Domain           | Technologies Used     |
