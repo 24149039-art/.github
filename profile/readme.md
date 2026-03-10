@@ -6,9 +6,9 @@
 
 | S.No | Project Title              | Domain           | Technologies Used     | 
 | --- | -------------------------- | ---------------- | --------------------- | 
-| 1 | [DNS RECORD FINDER](https://github.com/Relic29/DNS-RECORD-FINDER) | Cyber Security | Python |
-| 2 | [URL Attack Classifier](https://github.com/Sahana05S/URL_Attack_Classifier---Version2) | Cyber Security | Javascript, Python |
-| 3 | [Phishing URL Detection](https://github.com/PriyadharshiniM2005/Phishing_URL_Detection) | Cyber Security | Python |
+| 1 | [DNS Record Finder](https://github.com/Relic29/DNS-RECORD-FINDER) | Cyber Security | ![Python](https://img.shields.io/badge/python-green?logo=python) |
+| 2 | [URL Attack Classifier](https://github.com/Sahana05S/URL_Attack_Classifier---Version2) | Cyber Security | ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript) ![Python](https://img.shields.io/badge/python-green?logo=python) |
+| 3 | [Phishing URL Detection](https://github.com/PriyadharshiniM2005/Phishing_URL_Detection) | Cyber Security | ![Python](https://img.shields.io/badge/python-green?logo=python) |
 
 ### 🎓 Batch: **2024 – 2028**
 | S.No | Project Title              | Domain           | Technologies Used     |
